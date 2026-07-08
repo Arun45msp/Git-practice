@@ -3,4 +3,4 @@ Selenium
 testNg
 Cucumber
 jira 
-junit
+playwright
